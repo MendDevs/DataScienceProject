@@ -1,13 +1,11 @@
+# Projet Data Science : Investissements Airbnb Rentables
 
-Projet_Name/
-│
-├── data/
-│   └── 
-│
-├── notebooks/
-│   ├── 1_data_preparation.ipynb
-│   ├── 2_exploration_visualisation.ipynb
-│   └── 3_application_investisseur.ipynb
-│
-├── README.md  (optionnel)
-└── projet.zip  (to submit)
+## Structure du Projet
+
+- **01_Persona_and_Context.ipynb** : Présentation du persona et des objectifs du projet  
+- **02_Data_Preparation.ipynb** : Nettoyage et préparation des données DVF  
+- **03_Data_Exploration.ipynb** : Analyse statistique des données  
+- **04_Data_Visualisation_and_Widgets.ipynb** : Création de visualisations et widgets interactifs  
+- **05_Conclusions_and_Recommendations.ipynb** : Résumé et recommandations pour l’investisseur
+
+Les données proviennent de [data.gouv.fr](https://www.data.gouv.fr/fr/datasets/demandes-de-valeurs-foncieres/).

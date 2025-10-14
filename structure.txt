@@ -1,0 +1,15 @@
+Projet_Airbnb_Invest/
+│
+├── data/
+│   └── data.csv              # (optional: original CSV files)
+│   └── processed/        # (optional: cleaned/ready-to-use data)
+│
+├── notebooks/
+│   ├── 01_Persona_and_Context.ipynb
+│   ├── 02_Data_Preparation.ipynb
+│   ├── 03_Data_Exploration.ipynb
+│   ├── 04_Data_Visualisation_and_Widgets.ipynb
+│   └── 05_Conclusions_and_Recommendations.ipynb
+│
+├── README.md
+└── Projet_Airbnb_Invest.zip   # (final archive to submit)
