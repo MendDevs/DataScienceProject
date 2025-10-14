@@ -11,5 +11,8 @@ Projet_Airbnb_Invest/
 │   ├── 04_Data_Visualisation_and_Widgets.ipynb
 │   └── 05_Conclusions_and_Recommendations.ipynb
 │
+│-- venv/
+│  
+│
 ├── README.md
 └── Projet_Airbnb_Invest.zip   # (final archive to submit)
